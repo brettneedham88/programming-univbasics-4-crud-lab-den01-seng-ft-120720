@@ -3,6 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
+  afc_west
   [broncos, raiders, chiefs, chargers]
 end
 
